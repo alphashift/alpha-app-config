@@ -1,1 +1,22 @@
-app
+{
+  "AppUpdate": {
+    "LatestVersionCode": 5,
+    "ForceUpdate": true,
+    "PlayStoreLink": "https://play.google.com/store/apps/dev?id=7200456779104731261"
+  },
+  "AdConfig": {
+    "InterstitialShowDelay": 45,
+    "ShowOnAppStart": false,
+    "AdUnitIds": {
+      "AppOpenId": "ca-app-pub-7331234724662536/1307649753",
+      "BannerId": "ca-app-pub-7331234724662536/8821633108",
+      "NativeId": "ca-app-pub-7331234724662536/6474122621",
+      "InterstitialId": "ca-app-pub-7331234724662536/7521704312",
+      "RewardedInterId": null,
+      "RewardedId": null
+    }
+  },
+  "GeneralConfig": {
+    "PrivacyPolicyUrl": "https://sites.google.com/view/easypdfmaker-privacy/home"
+  }
+}
