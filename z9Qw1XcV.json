@@ -8,11 +8,11 @@
     "InterstitialShowDelay": 45,
     "ShowOnAppStart": false,
     "AdUnitIds": {
-      "AppOpenId": "ca-app-pub-7331234724662536/8340591577",
-      "BannerId": "ca-app-pub-7331234724662536/5024147180",
-      "NativeId": "ca-app-pub-7331234724662536/5177008663",
-      "InterstitialId": "ca-app-pub-7331234724662536/8129656827",
-      "RewardedInterId": null,
+      "AppOpenId": "ca-app-pub-7331234724662536/9702477969",
+      "BannerId": "ca-app-pub-7331234724662536/4265290789",
+      "NativeId": "ca-app-pub-7331234724662536/2015559634",
+      "InterstitialId": "ca-app-pub-7331234724662536/2952209119",
+      "RewardedInterId": "ca-app-pub-7331234724662536/3009432326",
       "RewardedId": null
     }
   },
