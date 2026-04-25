@@ -1,0 +1,22 @@
+{
+  "AppUpdate": {
+    "LatestVersionCode": 10,
+    "ForceUpdate": true,
+    "PlayStoreLink": "https://play.google.com/store/apps/dev?id=7200456779104731261"
+  },
+  "AdConfig": {
+    "InterstitialShowDelay": 45,
+    "ShowOnAppStart": false,
+    "AdUnitIds": {
+      "AppOpenId": "ca-app-pub-7331234724662536/9702477969",
+      "BannerId": "ca-app-pub-7331234724662536/4265290789",
+      "NativeId": "ca-app-pub-7331234724662536/2015559634",
+      "InterstitialId": "ca-app-pub-7331234724662536/2952209119",
+      "RewardedInterId": "ca-app-pub-7331234724662536/3009432326",
+      "RewardedId": null
+    }
+  },
+  "GeneralConfig": {
+    "PrivacyPolicyUrl": "cashero"
+  }
+}

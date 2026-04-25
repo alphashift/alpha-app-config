@@ -1,0 +1,22 @@
+{
+  "AppUpdate": {
+    "LatestVersionCode": 7,
+    "ForceUpdate": true,
+    "PlayStoreLink": "https://play.google.com/store/apps/dev?id=7200456779104731261"
+  },
+  "AdConfig": {
+    "InterstitialShowDelay": 45,
+    "ShowOnAppStart": false,
+    "AdUnitIds": {
+      "AppOpenId": "ca-app-pub-7331234724662536/8340591577",
+      "BannerId": "ca-app-pub-7331234724662536/5024147180",
+      "NativeId": "ca-app-pub-7331234724662536/5177008663",
+      "InterstitialId": "ca-app-pub-7331234724662536/8129656827",
+      "RewardedInterId": null,
+      "RewardedId": null
+    }
+  },
+  "GeneralConfig": {
+    "PrivacyPolicyUrl": "net blocker"
+  }
+}
